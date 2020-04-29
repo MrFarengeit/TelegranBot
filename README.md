@@ -1,2 +1,2 @@
-# TelegranBot
+# TelegramBot
 Test Bot for Telegram
